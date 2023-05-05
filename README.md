@@ -16,3 +16,6 @@
 ## Данные
 
 В качестве данных предложен файл, содержащий в себе вопросы в адрес государственных и муниципальных органов, которые пользователи оставили в социальных сетях. Файл с данными находиться [здесь](https://docs.google.com/spreadsheets/d/1VoONQ5Li6hYFv1SGmUKEWdnm7wYDmWYi/edit?usp=sharing&ouid=117398067332429699807&rtpof=true&sd=true). 
+
+### Автор: Юлия Безгинова
+Telegram ```@ybezginova_de```, Email: ```ybezginova2021@gmail.com```
