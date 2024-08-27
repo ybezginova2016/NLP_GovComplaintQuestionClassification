@@ -1,23 +1,24 @@
-# NLP_State Gov Complaint / Question Classification Project
+## 📝 **NLP State Gov Complaint / Question Classification Project**
 
-### Проект группы развития медиааналитики в г. Москва
+### **Project Objective**
+The objective of this project is to train a machine learning model that classifies user messages into one of two categories: complaint or question. This project is part of the media analytics development group in Moscow.
 
-## Задача
+### **Project Description**
+This project involves developing a Natural Language Processing (NLP) model to automatically categorize user messages directed at state and municipal authorities, which are posted on social media, as either complaints or questions. The goal is to improve the efficiency of processing these messages by correctly classifying them.
 
-Необходимо обучить модель, которая будет присваивать сообщениям пользователей класс - *жалоба / вопрос.*
+### **Data**
+The data used for this project consists of user messages, including both complaints and questions, addressed to state and municipal authorities. The data can be accessed through the following links:
+- **Complaints Data:** [Here](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv)
+- **Questions Data:** [Here](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv)
 
-## Методология проекта
+### **Project Methodology**
+1. **Data Preprocessing:** Perform initial data cleaning and preprocessing to prepare the data for model training.
+2. **Model Training:** Train classification models using the prepared data.
+3. **Model Evaluation:** Evaluate the performance of different models using quality metrics and select the best model.
+4. **Conclusions:** Draw conclusions based on the model's performance and provide recommendations for further improvements.
 
-1. Сделать первичную обработку данных.
-2. Обучить модель классификации.
-3. Оценить качество классификации разных моделей по метрикам качества выбрать лучшую.
-4. Сделать выводы.
+### **Code**
+The complete code for the project, including data preprocessing, model training, and evaluation, can be found in the Jupyter notebook [here](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb).
 
-## Данные
-
-В качестве данных предложен файл, содержащий в себе вопросы в адрес государственных и муниципальных органов, которые пользователи оставили в социальных сетях. Файл с данными находиться [здесь](https://docs.google.com/spreadsheets/d/1VoONQ5Li6hYFv1SGmUKEWdnm7wYDmWYi/edit?usp=sharing&ouid=117398067332429699807&rtpof=true&sd=true). 
-
-#### Основной ноутбук проекта лежит [здесь](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb).
-
-### Автор: Юлия Безгинова
-Telegram ```@ybezginova_de```, Email: ```ybezginova2021@gmail.com```
+### **Feedback**
+Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@ybezginova_de](https://t.me/ybezginova).
